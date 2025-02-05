@@ -35,4 +35,4 @@ A web application for managing quotations sent by Technochem. This app allows us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/akashchakraborty03/Quotations-Manager.git
