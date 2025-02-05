@@ -1,0 +1,51 @@
+body {
+    background-color: #f0f8ff;
+    color: #01497C;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+
+  .company-logo {
+    max-width: 300px; /* Adjust the size as needed */
+    margin-bottom: 5px; /* Add some spacing below the logo */
+  }
+
+  .form-container {
+    background-color: #A9D6E5;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(1, 42, 74, 0.5);
+    text-align: left;
+  }
+
+  h2 {
+    color: #012A4A;
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table th {
+    background-color: #013A63;
+    color: #ffffff;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 123, 255, 0.05);
+  }
